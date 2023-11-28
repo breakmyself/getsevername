@@ -1,0 +1,5 @@
+1、安装依赖
+btpip install pandas openpyxl
+2、执行
+btpython getsevname.py
+3、输出文件的目录在 /www/backup/site.xlsx中，下载到本地用wps或者office打开就可以看到
